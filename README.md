@@ -28,6 +28,8 @@ Persona 3 ha salido del parque
 Persona 4 ha salido del parque
 Persona 1 ha salido del parque
 Persona 5 ha salido del parque
+![image](https://github.com/Gaby-0616/AppConcurrenteTiempoReal/assets/55850839/3d44bbf9-55ba-403c-b4b7-aeb77a44af3c)
+
 Tecnologías:
 
 C#
